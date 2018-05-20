@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.pdb

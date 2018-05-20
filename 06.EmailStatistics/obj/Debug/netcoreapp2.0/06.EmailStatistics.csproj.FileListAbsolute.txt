@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\bin\Debug\netcoreapp2.0\06.EmailStatistics.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\bin\Debug\netcoreapp2.0\06.EmailStatistics.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\bin\Debug\netcoreapp2.0\06.EmailStatistics.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\bin\Debug\netcoreapp2.0\06.EmailStatistics.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\bin\Debug\netcoreapp2.0\06.EmailStatistics.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\obj\Debug\netcoreapp2.0\06.EmailStatistics.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\obj\Debug\netcoreapp2.0\06.EmailStatistics.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\obj\Debug\netcoreapp2.0\06.EmailStatistics.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\obj\Debug\netcoreapp2.0\06.EmailStatistics.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\obj\Debug\netcoreapp2.0\06.EmailStatistics.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.EmailStatistics\obj\Debug\netcoreapp2.0\06.EmailStatistics.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\bin\Debug\netcoreapp2.0\05.StringCommander.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\bin\Debug\netcoreapp2.0\05.StringCommander.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\bin\Debug\netcoreapp2.0\05.StringCommander.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\bin\Debug\netcoreapp2.0\05.StringCommander.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\bin\Debug\netcoreapp2.0\05.StringCommander.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\obj\Debug\netcoreapp2.0\05.StringCommander.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\obj\Debug\netcoreapp2.0\05.StringCommander.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\obj\Debug\netcoreapp2.0\05.StringCommander.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\obj\Debug\netcoreapp2.0\05.StringCommander.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\obj\Debug\netcoreapp2.0\05.StringCommander.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.StringCommander\obj\Debug\netcoreapp2.0\05.StringCommander.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\bin\Debug\netcoreapp2.0\07.HappinessIndex.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\bin\Debug\netcoreapp2.0\07.HappinessIndex.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\bin\Debug\netcoreapp2.0\07.HappinessIndex.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\bin\Debug\netcoreapp2.0\07.HappinessIndex.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\bin\Debug\netcoreapp2.0\07.HappinessIndex.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\obj\Debug\netcoreapp2.0\07.HappinessIndex.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\obj\Debug\netcoreapp2.0\07.HappinessIndex.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\obj\Debug\netcoreapp2.0\07.HappinessIndex.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\obj\Debug\netcoreapp2.0\07.HappinessIndex.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\obj\Debug\netcoreapp2.0\07.HappinessIndex.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.HappinessIndex\obj\Debug\netcoreapp2.0\07.HappinessIndex.pdb

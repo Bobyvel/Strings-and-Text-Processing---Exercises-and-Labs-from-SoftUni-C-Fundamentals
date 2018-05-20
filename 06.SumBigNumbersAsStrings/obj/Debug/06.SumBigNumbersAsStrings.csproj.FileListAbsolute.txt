@@ -1,0 +1,7 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SumBigNumbersAsStrings\bin\Debug\06.SumBigNumbersAsStrings.exe.config
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SumBigNumbersAsStrings\bin\Debug\06.SumBigNumbersAsStrings.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SumBigNumbersAsStrings\bin\Debug\06.SumBigNumbersAsStrings.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SumBigNumbersAsStrings\obj\Debug\06.SumBigNumbersAsStrings.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SumBigNumbersAsStrings\obj\Debug\06.SumBigNumbersAsStrings.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SumBigNumbersAsStrings\obj\Debug\06.SumBigNumbersAsStrings.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SumBigNumbersAsStrings\obj\Debug\06.SumBigNumbersAsStrings.pdb

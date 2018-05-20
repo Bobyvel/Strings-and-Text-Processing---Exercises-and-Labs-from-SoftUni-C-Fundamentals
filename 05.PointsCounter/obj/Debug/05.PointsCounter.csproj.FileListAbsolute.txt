@@ -1,0 +1,7 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.PointsCounter\bin\Debug\05.PointsCounter.exe.config
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.PointsCounter\bin\Debug\05.PointsCounter.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.PointsCounter\bin\Debug\05.PointsCounter.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.PointsCounter\obj\Debug\05.PointsCounter.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.PointsCounter\obj\Debug\05.PointsCounter.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.PointsCounter\obj\Debug\05.PointsCounter.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.PointsCounter\obj\Debug\05.PointsCounter.pdb

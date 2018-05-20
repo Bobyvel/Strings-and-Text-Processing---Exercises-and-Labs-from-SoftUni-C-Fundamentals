@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.pdb

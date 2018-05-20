@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurrences.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurrences.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurrences.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurrences.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurrences.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurrences.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurrences.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurrences.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurrences.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurrences.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurrences.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\bin\Debug\netcoreapp2.0\04.GroceryShop.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\bin\Debug\netcoreapp2.0\04.GroceryShop.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\bin\Debug\netcoreapp2.0\04.GroceryShop.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\bin\Debug\netcoreapp2.0\04.GroceryShop.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\bin\Debug\netcoreapp2.0\04.GroceryShop.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\obj\Debug\netcoreapp2.0\04.GroceryShop.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\obj\Debug\netcoreapp2.0\04.GroceryShop.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\obj\Debug\netcoreapp2.0\04.GroceryShop.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\obj\Debug\netcoreapp2.0\04.GroceryShop.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\obj\Debug\netcoreapp2.0\04.GroceryShop.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.GroceryShop\obj\Debug\netcoreapp2.0\04.GroceryShop.pdb

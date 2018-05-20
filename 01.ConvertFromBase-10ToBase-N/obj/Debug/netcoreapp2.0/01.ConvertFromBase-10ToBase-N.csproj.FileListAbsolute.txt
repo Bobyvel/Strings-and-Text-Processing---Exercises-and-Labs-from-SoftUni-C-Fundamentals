@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\bin\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\bin\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\bin\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\bin\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\bin\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\obj\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\obj\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\obj\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\obj\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\obj\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ConvertFromBase-10ToBase-N\obj\Debug\netcoreapp2.0\01.ConvertFromBase-10ToBase-N.pdb

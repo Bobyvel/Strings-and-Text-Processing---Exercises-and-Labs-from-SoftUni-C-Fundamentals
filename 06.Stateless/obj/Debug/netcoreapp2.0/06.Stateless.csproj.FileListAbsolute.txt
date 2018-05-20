@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\bin\Debug\netcoreapp2.0\06.Stateless.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\bin\Debug\netcoreapp2.0\06.Stateless.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\bin\Debug\netcoreapp2.0\06.Stateless.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\bin\Debug\netcoreapp2.0\06.Stateless.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\bin\Debug\netcoreapp2.0\06.Stateless.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\obj\Debug\netcoreapp2.0\06.Stateless.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\obj\Debug\netcoreapp2.0\06.Stateless.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\obj\Debug\netcoreapp2.0\06.Stateless.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\obj\Debug\netcoreapp2.0\06.Stateless.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\obj\Debug\netcoreapp2.0\06.Stateless.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.Stateless\obj\Debug\netcoreapp2.0\06.Stateless.pdb

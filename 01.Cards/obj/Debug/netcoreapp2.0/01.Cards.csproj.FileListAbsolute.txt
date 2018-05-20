@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\bin\Debug\netcoreapp2.0\01.Cards.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\bin\Debug\netcoreapp2.0\01.Cards.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\bin\Debug\netcoreapp2.0\01.Cards.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\bin\Debug\netcoreapp2.0\01.Cards.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\bin\Debug\netcoreapp2.0\01.Cards.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\obj\Debug\netcoreapp2.0\01.Cards.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\obj\Debug\netcoreapp2.0\01.Cards.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\obj\Debug\netcoreapp2.0\01.Cards.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\obj\Debug\netcoreapp2.0\01.Cards.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\obj\Debug\netcoreapp2.0\01.Cards.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Cards\obj\Debug\netcoreapp2.0\01.Cards.pdb

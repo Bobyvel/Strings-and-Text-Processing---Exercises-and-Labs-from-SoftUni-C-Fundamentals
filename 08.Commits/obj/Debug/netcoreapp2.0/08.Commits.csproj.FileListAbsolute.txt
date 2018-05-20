@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\bin\Debug\netcoreapp2.0\08.Commits.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\bin\Debug\netcoreapp2.0\08.Commits.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\bin\Debug\netcoreapp2.0\08.Commits.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\bin\Debug\netcoreapp2.0\08.Commits.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\bin\Debug\netcoreapp2.0\08.Commits.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\obj\Debug\netcoreapp2.0\08.Commits.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\obj\Debug\netcoreapp2.0\08.Commits.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\obj\Debug\netcoreapp2.0\08.Commits.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\obj\Debug\netcoreapp2.0\08.Commits.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\obj\Debug\netcoreapp2.0\08.Commits.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Commits\obj\Debug\netcoreapp2.0\08.Commits.pdb

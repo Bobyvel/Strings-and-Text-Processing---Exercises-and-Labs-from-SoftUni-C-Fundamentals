@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\bin\Debug\netcoreapp2.0\07.Hideout.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\bin\Debug\netcoreapp2.0\07.Hideout.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\bin\Debug\netcoreapp2.0\07.Hideout.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\bin\Debug\netcoreapp2.0\07.Hideout.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\bin\Debug\netcoreapp2.0\07.Hideout.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\obj\Debug\netcoreapp2.0\07.Hideout.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\obj\Debug\netcoreapp2.0\07.Hideout.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\obj\Debug\netcoreapp2.0\07.Hideout.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\obj\Debug\netcoreapp2.0\07.Hideout.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\obj\Debug\netcoreapp2.0\07.Hideout.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.Hideout\obj\Debug\netcoreapp2.0\07.Hideout.pdb

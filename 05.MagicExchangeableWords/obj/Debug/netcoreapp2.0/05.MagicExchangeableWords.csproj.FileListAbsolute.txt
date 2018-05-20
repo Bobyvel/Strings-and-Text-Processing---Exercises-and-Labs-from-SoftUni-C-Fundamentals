@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.pdb

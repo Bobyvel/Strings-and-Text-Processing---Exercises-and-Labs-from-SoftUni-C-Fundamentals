@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.pdb

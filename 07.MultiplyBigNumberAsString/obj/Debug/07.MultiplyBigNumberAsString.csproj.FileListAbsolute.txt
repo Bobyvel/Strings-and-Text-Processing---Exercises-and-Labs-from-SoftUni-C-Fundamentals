@@ -1,0 +1,6 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MultiplyBigNumberAsString\bin\Debug\07.MultiplyBigNumberAsString.exe.config
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MultiplyBigNumberAsString\bin\Debug\07.MultiplyBigNumberAsString.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MultiplyBigNumberAsString\bin\Debug\07.MultiplyBigNumberAsString.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MultiplyBigNumberAsString\obj\Debug\07.MultiplyBigNumberAsString.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MultiplyBigNumberAsString\obj\Debug\07.MultiplyBigNumberAsString.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MultiplyBigNumberAsString\obj\Debug\07.MultiplyBigNumberAsString.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\bin\Debug\netcoreapp2.0\02.WordEncounter.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\bin\Debug\netcoreapp2.0\02.WordEncounter.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\bin\Debug\netcoreapp2.0\02.WordEncounter.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\bin\Debug\netcoreapp2.0\02.WordEncounter.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\bin\Debug\netcoreapp2.0\02.WordEncounter.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\obj\Debug\netcoreapp2.0\02.WordEncounter.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\obj\Debug\netcoreapp2.0\02.WordEncounter.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\obj\Debug\netcoreapp2.0\02.WordEncounter.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\obj\Debug\netcoreapp2.0\02.WordEncounter.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\obj\Debug\netcoreapp2.0\02.WordEncounter.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.WordEncounter\obj\Debug\netcoreapp2.0\02.WordEncounter.pdb

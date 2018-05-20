@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\bin\Debug\netcoreapp2.0\01.Censorship.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\bin\Debug\netcoreapp2.0\01.Censorship.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\bin\Debug\netcoreapp2.0\01.Censorship.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\bin\Debug\netcoreapp2.0\01.Censorship.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\bin\Debug\netcoreapp2.0\01.Censorship.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\obj\Debug\netcoreapp2.0\01.Censorship.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\obj\Debug\netcoreapp2.0\01.Censorship.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\obj\Debug\netcoreapp2.0\01.Censorship.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\obj\Debug\netcoreapp2.0\01.Censorship.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\obj\Debug\netcoreapp2.0\01.Censorship.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.Censorship\obj\Debug\netcoreapp2.0\01.Censorship.pdb

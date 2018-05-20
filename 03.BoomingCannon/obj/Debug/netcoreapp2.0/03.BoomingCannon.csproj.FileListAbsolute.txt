@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\bin\Debug\netcoreapp2.0\03.BoomingCannon.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\bin\Debug\netcoreapp2.0\03.BoomingCannon.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\bin\Debug\netcoreapp2.0\03.BoomingCannon.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\bin\Debug\netcoreapp2.0\03.BoomingCannon.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\bin\Debug\netcoreapp2.0\03.BoomingCannon.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\obj\Debug\netcoreapp2.0\03.BoomingCannon.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\obj\Debug\netcoreapp2.0\03.BoomingCannon.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\obj\Debug\netcoreapp2.0\03.BoomingCannon.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\obj\Debug\netcoreapp2.0\03.BoomingCannon.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\obj\Debug\netcoreapp2.0\03.BoomingCannon.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.BoomingCannon\obj\Debug\netcoreapp2.0\03.BoomingCannon.pdb

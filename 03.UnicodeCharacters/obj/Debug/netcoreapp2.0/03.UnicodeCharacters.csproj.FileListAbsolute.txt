@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.pdb

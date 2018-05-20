@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\bin\Debug\netcoreapp2.0\05.SoftUniMessages.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\bin\Debug\netcoreapp2.0\05.SoftUniMessages.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\bin\Debug\netcoreapp2.0\05.SoftUniMessages.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\bin\Debug\netcoreapp2.0\05.SoftUniMessages.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\bin\Debug\netcoreapp2.0\05.SoftUniMessages.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\obj\Debug\netcoreapp2.0\05.SoftUniMessages.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\obj\Debug\netcoreapp2.0\05.SoftUniMessages.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\obj\Debug\netcoreapp2.0\05.SoftUniMessages.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\obj\Debug\netcoreapp2.0\05.SoftUniMessages.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\obj\Debug\netcoreapp2.0\05.SoftUniMessages.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.SoftUniMessages\obj\Debug\netcoreapp2.0\05.SoftUniMessages.pdb

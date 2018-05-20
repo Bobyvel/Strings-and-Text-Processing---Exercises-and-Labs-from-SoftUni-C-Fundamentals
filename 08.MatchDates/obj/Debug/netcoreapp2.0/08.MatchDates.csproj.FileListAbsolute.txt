@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\bin\Debug\netcoreapp2.0\08.MatchDates.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\bin\Debug\netcoreapp2.0\08.MatchDates.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\bin\Debug\netcoreapp2.0\08.MatchDates.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\bin\Debug\netcoreapp2.0\08.MatchDates.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\bin\Debug\netcoreapp2.0\08.MatchDates.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\obj\Debug\netcoreapp2.0\08.MatchDates.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\obj\Debug\netcoreapp2.0\08.MatchDates.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\obj\Debug\netcoreapp2.0\08.MatchDates.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\obj\Debug\netcoreapp2.0\08.MatchDates.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\obj\Debug\netcoreapp2.0\08.MatchDates.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.MatchDates\obj\Debug\netcoreapp2.0\08.MatchDates.pdb

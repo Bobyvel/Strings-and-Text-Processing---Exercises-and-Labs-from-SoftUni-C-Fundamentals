@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\bin\Debug\netcoreapp2.0\02.DiamondProblem.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\bin\Debug\netcoreapp2.0\02.DiamondProblem.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\bin\Debug\netcoreapp2.0\02.DiamondProblem.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\bin\Debug\netcoreapp2.0\02.DiamondProblem.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\bin\Debug\netcoreapp2.0\02.DiamondProblem.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\obj\Debug\netcoreapp2.0\02.DiamondProblem.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\obj\Debug\netcoreapp2.0\02.DiamondProblem.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\obj\Debug\netcoreapp2.0\02.DiamondProblem.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\obj\Debug\netcoreapp2.0\02.DiamondProblem.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\obj\Debug\netcoreapp2.0\02.DiamondProblem.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.DiamondProblem\obj\Debug\netcoreapp2.0\02.DiamondProblem.pdb

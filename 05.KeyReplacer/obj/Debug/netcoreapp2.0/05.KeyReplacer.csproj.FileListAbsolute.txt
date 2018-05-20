@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\bin\Debug\netcoreapp2.0\05.KeyReplacer.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\bin\Debug\netcoreapp2.0\05.KeyReplacer.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\bin\Debug\netcoreapp2.0\05.KeyReplacer.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\bin\Debug\netcoreapp2.0\05.KeyReplacer.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\bin\Debug\netcoreapp2.0\05.KeyReplacer.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\obj\Debug\netcoreapp2.0\05.KeyReplacer.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\obj\Debug\netcoreapp2.0\05.KeyReplacer.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\obj\Debug\netcoreapp2.0\05.KeyReplacer.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\obj\Debug\netcoreapp2.0\05.KeyReplacer.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\obj\Debug\netcoreapp2.0\05.KeyReplacer.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.KeyReplacer\obj\Debug\netcoreapp2.0\05.KeyReplacer.pdb

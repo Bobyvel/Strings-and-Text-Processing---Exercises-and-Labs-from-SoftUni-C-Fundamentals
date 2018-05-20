@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\bin\Debug\netcoreapp2.0\06.FishStatistics.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\bin\Debug\netcoreapp2.0\06.FishStatistics.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\bin\Debug\netcoreapp2.0\06.FishStatistics.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\bin\Debug\netcoreapp2.0\06.FishStatistics.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\bin\Debug\netcoreapp2.0\06.FishStatistics.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\obj\Debug\netcoreapp2.0\06.FishStatistics.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\obj\Debug\netcoreapp2.0\06.FishStatistics.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\obj\Debug\netcoreapp2.0\06.FishStatistics.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\obj\Debug\netcoreapp2.0\06.FishStatistics.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\obj\Debug\netcoreapp2.0\06.FishStatistics.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.FishStatistics\obj\Debug\netcoreapp2.0\06.FishStatistics.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\bin\Debug\netcoreapp2.0\03.JSONStringify.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\bin\Debug\netcoreapp2.0\03.JSONStringify.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\bin\Debug\netcoreapp2.0\03.JSONStringify.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\bin\Debug\netcoreapp2.0\03.JSONStringify.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\bin\Debug\netcoreapp2.0\03.JSONStringify.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\obj\Debug\netcoreapp2.0\03.JSONStringify.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\obj\Debug\netcoreapp2.0\03.JSONStringify.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\obj\Debug\netcoreapp2.0\03.JSONStringify.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\obj\Debug\netcoreapp2.0\03.JSONStringify.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\obj\Debug\netcoreapp2.0\03.JSONStringify.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.JSONStringify\obj\Debug\netcoreapp2.0\03.JSONStringify.pdb

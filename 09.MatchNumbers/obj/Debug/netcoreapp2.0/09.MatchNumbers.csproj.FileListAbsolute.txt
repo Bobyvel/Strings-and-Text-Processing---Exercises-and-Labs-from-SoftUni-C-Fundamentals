@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\bin\Debug\netcoreapp2.0\09.MatchNumbers.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\bin\Debug\netcoreapp2.0\09.MatchNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\bin\Debug\netcoreapp2.0\09.MatchNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\bin\Debug\netcoreapp2.0\09.MatchNumbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\bin\Debug\netcoreapp2.0\09.MatchNumbers.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\obj\Debug\netcoreapp2.0\09.MatchNumbers.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\obj\Debug\netcoreapp2.0\09.MatchNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\obj\Debug\netcoreapp2.0\09.MatchNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\obj\Debug\netcoreapp2.0\09.MatchNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\obj\Debug\netcoreapp2.0\09.MatchNumbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MatchNumbers\obj\Debug\netcoreapp2.0\09.MatchNumbers.pdb

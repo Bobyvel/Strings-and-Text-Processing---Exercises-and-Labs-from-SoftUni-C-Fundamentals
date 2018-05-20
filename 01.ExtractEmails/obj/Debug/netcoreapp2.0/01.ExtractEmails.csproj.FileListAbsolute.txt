@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.pdb

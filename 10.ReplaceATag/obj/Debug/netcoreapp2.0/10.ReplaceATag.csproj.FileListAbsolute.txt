@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\bin\Debug\netcoreapp2.0\10.ReplaceATag.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\bin\Debug\netcoreapp2.0\10.ReplaceATag.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\bin\Debug\netcoreapp2.0\10.ReplaceATag.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\bin\Debug\netcoreapp2.0\10.ReplaceATag.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\bin\Debug\netcoreapp2.0\10.ReplaceATag.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\obj\Debug\netcoreapp2.0\10.ReplaceATag.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\obj\Debug\netcoreapp2.0\10.ReplaceATag.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\obj\Debug\netcoreapp2.0\10.ReplaceATag.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\obj\Debug\netcoreapp2.0\10.ReplaceATag.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\obj\Debug\netcoreapp2.0\10.ReplaceATag.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\10.ReplaceATag\obj\Debug\netcoreapp2.0\10.ReplaceATag.pdb

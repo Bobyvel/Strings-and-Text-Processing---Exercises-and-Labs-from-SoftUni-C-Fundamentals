@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\bin\Debug\netcoreapp2.0\03.SerializeString.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\bin\Debug\netcoreapp2.0\03.SerializeString.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\bin\Debug\netcoreapp2.0\03.SerializeString.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\bin\Debug\netcoreapp2.0\03.SerializeString.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\bin\Debug\netcoreapp2.0\03.SerializeString.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\obj\Debug\netcoreapp2.0\03.SerializeString.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\obj\Debug\netcoreapp2.0\03.SerializeString.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\obj\Debug\netcoreapp2.0\03.SerializeString.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\obj\Debug\netcoreapp2.0\03.SerializeString.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\obj\Debug\netcoreapp2.0\03.SerializeString.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.SerializeString\obj\Debug\netcoreapp2.0\03.SerializeString.pdb

@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.pdb

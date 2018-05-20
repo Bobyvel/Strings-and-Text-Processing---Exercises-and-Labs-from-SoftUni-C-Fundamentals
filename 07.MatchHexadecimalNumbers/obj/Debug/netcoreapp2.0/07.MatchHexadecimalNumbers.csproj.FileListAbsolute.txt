@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\07.MatchHexadecimalNumbers.pdb

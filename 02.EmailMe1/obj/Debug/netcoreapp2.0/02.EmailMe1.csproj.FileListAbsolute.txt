@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\bin\Debug\netcoreapp2.0\02.EmailMe1.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\bin\Debug\netcoreapp2.0\02.EmailMe1.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\bin\Debug\netcoreapp2.0\02.EmailMe1.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\bin\Debug\netcoreapp2.0\02.EmailMe1.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\bin\Debug\netcoreapp2.0\02.EmailMe1.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\obj\Debug\netcoreapp2.0\02.EmailMe1.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\obj\Debug\netcoreapp2.0\02.EmailMe1.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\obj\Debug\netcoreapp2.0\02.EmailMe1.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\obj\Debug\netcoreapp2.0\02.EmailMe1.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\02.EmailMe1\obj\Debug\netcoreapp2.0\02.EmailMe1.pdb

@@ -1,0 +1,7 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SentenceSplit\bin\Debug\06.SentenceSplit.exe.config
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SentenceSplit\bin\Debug\06.SentenceSplit.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SentenceSplit\bin\Debug\06.SentenceSplit.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SentenceSplit\obj\Debug\06.SentenceSplit.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SentenceSplit\obj\Debug\06.SentenceSplit.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SentenceSplit\obj\Debug\06.SentenceSplit.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.SentenceSplit\obj\Debug\06.SentenceSplit.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\bin\Debug\netcoreapp2.0\08.Nilapdromes1.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\bin\Debug\netcoreapp2.0\08.Nilapdromes1.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\bin\Debug\netcoreapp2.0\08.Nilapdromes1.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\bin\Debug\netcoreapp2.0\08.Nilapdromes1.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\bin\Debug\netcoreapp2.0\08.Nilapdromes1.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\obj\Debug\netcoreapp2.0\08.Nilapdromes1.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\obj\Debug\netcoreapp2.0\08.Nilapdromes1.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\obj\Debug\netcoreapp2.0\08.Nilapdromes1.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\obj\Debug\netcoreapp2.0\08.Nilapdromes1.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\obj\Debug\netcoreapp2.0\08.Nilapdromes1.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\ConsoleApp2\obj\Debug\netcoreapp2.0\08.Nilapdromes1.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\bin\Debug\netcoreapp2.0\07.QueryMess.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\bin\Debug\netcoreapp2.0\07.QueryMess.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\bin\Debug\netcoreapp2.0\07.QueryMess.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\bin\Debug\netcoreapp2.0\07.QueryMess.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\bin\Debug\netcoreapp2.0\07.QueryMess.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\obj\Debug\netcoreapp2.0\07.QueryMess.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\obj\Debug\netcoreapp2.0\07.QueryMess.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\obj\Debug\netcoreapp2.0\07.QueryMess.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\obj\Debug\netcoreapp2.0\07.QueryMess.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\obj\Debug\netcoreapp2.0\07.QueryMess.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\07.QueryMess\obj\Debug\netcoreapp2.0\07.QueryMess.pdb

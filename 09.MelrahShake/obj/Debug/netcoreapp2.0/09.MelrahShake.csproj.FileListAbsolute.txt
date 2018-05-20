@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.pdb

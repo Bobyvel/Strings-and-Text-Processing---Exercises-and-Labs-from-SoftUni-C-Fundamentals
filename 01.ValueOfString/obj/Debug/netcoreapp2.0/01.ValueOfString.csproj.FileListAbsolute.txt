@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\bin\Debug\netcoreapp2.0\01.ValueOfString.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\bin\Debug\netcoreapp2.0\01.ValueOfString.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\bin\Debug\netcoreapp2.0\01.ValueOfString.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\bin\Debug\netcoreapp2.0\01.ValueOfString.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\bin\Debug\netcoreapp2.0\01.ValueOfString.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\obj\Debug\netcoreapp2.0\01.ValueOfString.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\obj\Debug\netcoreapp2.0\01.ValueOfString.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\obj\Debug\netcoreapp2.0\01.ValueOfString.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\obj\Debug\netcoreapp2.0\01.ValueOfString.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\obj\Debug\netcoreapp2.0\01.ValueOfString.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ValueOfString\obj\Debug\netcoreapp2.0\01.ValueOfString.pdb

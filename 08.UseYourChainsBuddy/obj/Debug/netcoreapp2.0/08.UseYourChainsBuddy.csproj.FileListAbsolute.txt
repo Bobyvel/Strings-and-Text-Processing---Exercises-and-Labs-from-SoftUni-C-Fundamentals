@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.pdb

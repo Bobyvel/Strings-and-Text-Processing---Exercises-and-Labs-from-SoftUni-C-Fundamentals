@@ -1,0 +1,7 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.LettersChangeNumbers\bin\Debug\08.LettersChangeNumbers.exe.config
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.LettersChangeNumbers\bin\Debug\08.LettersChangeNumbers.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.LettersChangeNumbers\bin\Debug\08.LettersChangeNumbers.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.LettersChangeNumbers\obj\Debug\08.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.LettersChangeNumbers\obj\Debug\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.LettersChangeNumbers\obj\Debug\08.LettersChangeNumbers.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.LettersChangeNumbers\obj\Debug\08.LettersChangeNumbers.pdb

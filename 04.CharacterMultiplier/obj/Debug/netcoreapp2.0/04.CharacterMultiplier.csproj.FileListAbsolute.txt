@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.pdb

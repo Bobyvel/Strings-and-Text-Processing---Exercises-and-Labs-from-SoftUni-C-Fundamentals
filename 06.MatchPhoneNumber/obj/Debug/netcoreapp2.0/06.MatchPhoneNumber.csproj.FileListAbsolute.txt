@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\bin\Debug\netcoreapp2.0\06.MatchPhoneNumber.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\bin\Debug\netcoreapp2.0\06.MatchPhoneNumber.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\bin\Debug\netcoreapp2.0\06.MatchPhoneNumber.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\bin\Debug\netcoreapp2.0\06.MatchPhoneNumber.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\bin\Debug\netcoreapp2.0\06.MatchPhoneNumber.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\obj\Debug\netcoreapp2.0\06.MatchPhoneNumber.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\obj\Debug\netcoreapp2.0\06.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\obj\Debug\netcoreapp2.0\06.MatchPhoneNumber.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\obj\Debug\netcoreapp2.0\06.MatchPhoneNumber.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\obj\Debug\netcoreapp2.0\06.MatchPhoneNumber.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\06.MatchPhoneNumber\obj\Debug\netcoreapp2.0\06.MatchPhoneNumber.pdb

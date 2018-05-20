@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\bin\Debug\netcoreapp2.0\03.TextFilter.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\bin\Debug\netcoreapp2.0\03.TextFilter.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\bin\Debug\netcoreapp2.0\03.TextFilter.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\bin\Debug\netcoreapp2.0\03.TextFilter.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\bin\Debug\netcoreapp2.0\03.TextFilter.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\obj\Debug\netcoreapp2.0\03.TextFilter.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\obj\Debug\netcoreapp2.0\03.TextFilter.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\obj\Debug\netcoreapp2.0\03.TextFilter.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\obj\Debug\netcoreapp2.0\03.TextFilter.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\obj\Debug\netcoreapp2.0\03.TextFilter.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\03.TextFilter\obj\Debug\netcoreapp2.0\03.TextFilter.pdb

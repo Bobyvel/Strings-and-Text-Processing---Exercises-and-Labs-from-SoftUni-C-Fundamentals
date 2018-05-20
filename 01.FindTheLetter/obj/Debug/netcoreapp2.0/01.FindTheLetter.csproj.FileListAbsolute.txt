@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\bin\Debug\netcoreapp2.0\01.FindTheLetter.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\bin\Debug\netcoreapp2.0\01.FindTheLetter.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\bin\Debug\netcoreapp2.0\01.FindTheLetter.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\bin\Debug\netcoreapp2.0\01.FindTheLetter.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\bin\Debug\netcoreapp2.0\01.FindTheLetter.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\obj\Debug\netcoreapp2.0\01.FindTheLetter.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\obj\Debug\netcoreapp2.0\01.FindTheLetter.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\obj\Debug\netcoreapp2.0\01.FindTheLetter.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\obj\Debug\netcoreapp2.0\01.FindTheLetter.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\obj\Debug\netcoreapp2.0\01.FindTheLetter.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.FindTheLetter\obj\Debug\netcoreapp2.0\01.FindTheLetter.pdb

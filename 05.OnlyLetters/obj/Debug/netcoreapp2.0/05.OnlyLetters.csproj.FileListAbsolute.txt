@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\bin\Debug\netcoreapp2.0\05.OnlyLetters.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\bin\Debug\netcoreapp2.0\05.OnlyLetters.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\bin\Debug\netcoreapp2.0\05.OnlyLetters.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\bin\Debug\netcoreapp2.0\05.OnlyLetters.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\bin\Debug\netcoreapp2.0\05.OnlyLetters.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\obj\Debug\netcoreapp2.0\05.OnlyLetters.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\obj\Debug\netcoreapp2.0\05.OnlyLetters.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\obj\Debug\netcoreapp2.0\05.OnlyLetters.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\obj\Debug\netcoreapp2.0\05.OnlyLetters.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.OnlyLetters\obj\Debug\netcoreapp2.0\05.OnlyLetters.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\bin\Debug\netcoreapp2.0\05.MatchFullName.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\bin\Debug\netcoreapp2.0\05.MatchFullName.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\bin\Debug\netcoreapp2.0\05.MatchFullName.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\bin\Debug\netcoreapp2.0\05.MatchFullName.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\bin\Debug\netcoreapp2.0\05.MatchFullName.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\obj\Debug\netcoreapp2.0\05.MatchFullName.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\obj\Debug\netcoreapp2.0\05.MatchFullName.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\obj\Debug\netcoreapp2.0\05.MatchFullName.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\obj\Debug\netcoreapp2.0\05.MatchFullName.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\obj\Debug\netcoreapp2.0\05.MatchFullName.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\05.MatchFullName\obj\Debug\netcoreapp2.0\05.MatchFullName.pdb

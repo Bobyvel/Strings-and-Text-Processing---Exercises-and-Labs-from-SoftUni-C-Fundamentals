@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.pdb

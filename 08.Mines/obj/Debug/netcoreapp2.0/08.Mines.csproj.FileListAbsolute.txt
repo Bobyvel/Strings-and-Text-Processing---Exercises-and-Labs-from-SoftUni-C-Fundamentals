@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\bin\Debug\netcoreapp2.0\08.Mines.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\bin\Debug\netcoreapp2.0\08.Mines.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\bin\Debug\netcoreapp2.0\08.Mines.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\bin\Debug\netcoreapp2.0\08.Mines.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\bin\Debug\netcoreapp2.0\08.Mines.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\obj\Debug\netcoreapp2.0\08.Mines.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\obj\Debug\netcoreapp2.0\08.Mines.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\obj\Debug\netcoreapp2.0\08.Mines.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\obj\Debug\netcoreapp2.0\08.Mines.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\obj\Debug\netcoreapp2.0\08.Mines.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Strings and Text Processing\08.Mines\obj\Debug\netcoreapp2.0\08.Mines.pdb
